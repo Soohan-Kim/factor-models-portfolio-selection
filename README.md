@@ -4,7 +4,7 @@
 
 - File: factor_model_analysis.ipynb
 
-- Description: This project analyzes a constantly changing 700+ equities universe through the lens of fundamental factor signals.
+- Description: This project analyzes an constantly changing 700+ equities universe through the lens of fundamental factor signals.
 
 - Notes: project done as part of Algorithmic Trading and Quantitative Strategies course at NYU Courant
 
